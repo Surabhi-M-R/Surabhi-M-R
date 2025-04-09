@@ -4,5 +4,6 @@
 - 💞️ I’m looking to collaborate on web development and hackathon
 - 📫 you can reach me through linkedIn, instagram 
 - 😄 Pronouns: she 
-- ⚡ Fun fact: im also interested in editing
+- ⚡ Fun fact: im also interested in editing,AI image generation
+- 
 

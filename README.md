@@ -19,12 +19,12 @@
 
 <h3 align="center">💻 Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,python&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python&theme=light"/>
 </p>
 
 <h3 align="center">🌐 Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,figma&theme=light"/>
 </p>
 
 <h3 align="center">🧠 Backend & Database</h3>
@@ -34,7 +34,7 @@
 
 <h3 align="center">🧰 Tools & DevOps</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=light"/>
 </p>
 
 ---

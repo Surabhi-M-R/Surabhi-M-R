@@ -16,8 +16,25 @@
 ---
 
 <h2 align="center">🛠 Tech Stack</h2>
+
+<h3 align="center">💻 Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,reactjs,nodejs,express,mongodb,firebase,mysql,php,firebase,python,git,github,figma,bootstrap,vscode,postman,&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,python&theme=light"/>
+</p>
+
+<h3 align="center">🌐 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&theme=light"/>
+</p>
+
+<h3 align="center">🧠 Backend & Database</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql&theme=light"/>
+</p>
+
+<h3 align="center">🧰 Tools & DevOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=light"/>
 </p>
 
 ---

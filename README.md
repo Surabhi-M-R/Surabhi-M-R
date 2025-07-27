@@ -10,9 +10,10 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNsN3V3emNoZ2p1YzY4emMyb2p1ZXF2MHR1NGV1NmZmdnZhbGNpbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ju7l5y9osyymQ/giphy.gif" alt="Aesthetic Girl Workspace" width="100%" />
+  <img src="https://media.giphy.com/media/B6odRjpsGO6zk/giphy.gif
+
+" alt="Aesthetic Girl Workspace" width="100%" />
 </p>
----
 
 <h2 align="center">✨ Motto ✨</h2>
 <p align="center"><i>"Build with passion, learn without limits, create without fear."</i></p>
